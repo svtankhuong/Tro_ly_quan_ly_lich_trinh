@@ -1,0 +1,3 @@
+[submodule "Personal_Schedule_Assistant"]
+	path = Personal_Schedule_Assistant
+	url = git@github.com:svtankhuong/Personal_Schedule_Assistant.git
