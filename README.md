@@ -4,6 +4,9 @@
 
 Trợ lý quản lý lịch trình cá nhân là một ứng dụng tích hợp AI giúp người dùng quản lý thời gian hiệu quả thông qua việc nhập liệu bằng ngôn ngữ tự nhiên (Tiếng Việt). Hệ thống tự động trích xuất thông tin, phát hiện trùng lịch, nhắc nhở bằng âm thanh và hỗ trợ chuẩn hóa lỗi chính tả.
 
+## Video demo sản phẩm
+[Demo_doacn.7z](Demo_doacn.7z)
+
 ## Tính Năng Chính
 
 ### 🗣️ Xử Lý Ngôn Ngữ Tự Nhiên (NLP)
@@ -134,6 +137,3 @@ Kết quả sẽ được xuất ra file `dynamic_test_case.md` chứa bảng so
 ## Lưu ý
   Vì không muốn bị sao chép code, nên mã nguồn của dự án trong link github này không thể tải về được.
   Thây cô hoặc bạn nào có nhu cầu muốn tải và xem code của em. Vui lòng liên hệ email sau: tankhuongpham35@gmail.com.
-
-## Video demo sản phẩm
-[Demo_doacn.7z](Demo_doacn.7z)
