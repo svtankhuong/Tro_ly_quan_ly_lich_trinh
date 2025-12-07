@@ -13,7 +13,7 @@ Repository này là **Public** để nộp báo cáo. Tuy nhiên, để đảm b
 
 ---
 
-### 📂 Link truy cập Source Code
+### 📂 Folder truy cập Source Code
 Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào thư mục có ở trong hình dưới đây:
 
 *(Thư mục này liên kết trực tiếp đến Private Repository chứa code)*
@@ -21,11 +21,12 @@ Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào thư 
 <div align="center">
   <img width="100%" alt="Hướng dẫn truy cập" src="https://github.com/user-attachments/assets/5345d1db-4f05-49c4-bc9f-05c60cc220f4" />
 </div>
+
 # Trợ lý Quản lý Lịch trình Cá nhân
 
 ## Giới Thiệu
 
-Trợ lý quản lý lịch trình cá nhân là một ứng dụng tích hợp AI giúp người dùng quản lý thời gian hiệu quả thông qua việc nhập liệu bằng ngôn ngữ tự nhiên (Tiếng Việt). Hệ thống tự động trích xuất thông tin, phát hiện trùng lịch, nhắc nhở bằng âm thanh và hỗ trợ chuẩn hóa lỗi chính tả.
+Trợ lý quản lý lịch trinh cá nhân là một ứng dụng tích hợp AI giúp người dùng quản lý thời gian hiệu quả thông qua việc nhập liệu bằng ngôn ngữ tự nhiên (Tiếng Việt). Hệ thống tự động trích xuất thông tin, phát hiện trùng lịch, nhắc nhở bằng âm thanh và hỗ trợ chuẩn hóa lỗi chính tả.
 
 ## Video demo sản phẩm
 [Demo_doacn.7z](Demo_doacn.7z)
