@@ -14,9 +14,7 @@ Repository này là **Public** để nộp báo cáo. Tuy nhiên, để đảm b
 ---
 
 ### 📂 Link truy cập Source Code
-Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào thư mục liên kết dưới đây:
-
-### 🔗 [Personal_Schedule_Assistant @ (Mã Commit)](./Personal_Schedule_Assistant)
+Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào thư mục có ở trong hình dưới đây:
 
 *(Thư mục này liên kết trực tiếp đến Private Repository chứa code)*
 
