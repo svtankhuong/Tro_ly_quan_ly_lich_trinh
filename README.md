@@ -1,3 +1,28 @@
+# HƯỚNG DẪN TRUY CẬP SOURCE CODE (Dành cho GV: Thầy Nguyễn Tuấn Đăng)
+
+**Kính gửi Thầy,**
+
+Em là **Phạm Tấn Khương** (MSSV: 3122410191).
+
+Repository này là **Public** để nộp báo cáo. Tuy nhiên, để đảm bảo tính liêm chính học thuật, phần mã nguồn cốt lõi (Source code) được em lưu trữ dưới dạng **Git Submodule (Private)**.
+
+⚠️ **LƯU Ý QUAN TRỌNG:**
+Để xem được code bên trong thư mục con, Thầy cần có quyền truy cập vào Repository Private. Em đã gửi lời mời (Invite Collaborator) đến email **`ntdsgvn@gmail.com`**.
+
+👉 **Thầy vui lòng kiểm tra Email và Chấp nhận lời mời trước khi bấm vào thư mục bên dưới.**
+
+---
+
+### 📂 Link truy cập Source Code
+Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào thư mục liên kết dưới đây:
+
+### 🔗 [Personal_Schedule_Assistant @ (Mã Commit)](./Personal_Schedule_Assistant)
+
+*(Thư mục này liên kết trực tiếp đến Private Repository chứa code)*
+
+<div align="center">
+  <img width="100%" alt="Hướng dẫn truy cập" src="https://github.com/user-attachments/assets/5345d1db-4f05-49c4-bc9f-05c60cc220f4" />
+</div>
 # Trợ lý Quản lý Lịch trình Cá nhân
 
 ## Giới Thiệu
