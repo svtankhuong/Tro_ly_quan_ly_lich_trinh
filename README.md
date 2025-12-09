@@ -7,7 +7,7 @@ Em là **Phạm Tấn Khương** (MSSV: 3122410191).
 Repository này là **Public** để nộp báo cáo. Tuy nhiên, để đảm bảo tính liêm chính học thuật, phần mã nguồn cốt lõi (Source code) được em lưu trữ dưới dạng **Git Submodule (Private)**.
 
 ⚠️ **LƯU Ý QUAN TRỌNG:**
-Để xem được code bên trong thư mục con, Thầy cần có quyền truy cập vào Repository Private. Em đã gửi lời mời (Invite Collaborator) đến email **`ntdsgvn@gmail.com`**.
+Để xem được code bên trong thư mục con, Thầy cần có quyền truy cập vào Repository Private có tên là ___Personal_Schedule_Assistant___. Em đã gửi lời mời (Invite Collaborator) đến email **`ntdsgvn@gmail.com`**.
 
 👉 **Thầy vui lòng kiểm tra Email và Chấp nhận lời mời trước khi bấm vào thư mục bên dưới.**
 
