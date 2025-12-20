@@ -9,18 +9,14 @@ Repository này là **Public** để nộp báo cáo. Tuy nhiên, để đảm b
 ⚠️ **LƯU Ý QUAN TRỌNG:**
 Để xem được code bên trong thư mục con, Thầy cần có quyền truy cập vào Repository Private có tên là ___Personal_Schedule_Assistant___. Em đã gửi lời mời (Invite Collaborator) đến email **`ntdsgvn@gmail.com`**.
 
-👉 **Thầy vui lòng kiểm tra Email và Chấp nhận lời mời trước khi bấm vào thư mục bên dưới.**
+<img width="1876" height="871" alt="image" src="https://github.com/user-attachments/assets/4ba4563e-ab3c-47bd-871f-bf4d2d8b1051" />
 
+👉 **Thầy vui lòng kiểm tra Email và Chấp nhận lời mời.**
 ---
 
-### 📂 Folder truy cập Source Code
-Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào thư mục có ở trong hình dưới đây:
-
-*(Thư mục này liên kết trực tiếp đến Private Repository chứa code)*
-
-<div align="center">
-  <img width="100%" alt="Hướng dẫn truy cập" src="https://github.com/user-attachments/assets/5345d1db-4f05-49c4-bc9f-05c60cc220f4" />
-</div>
+### Link truy cập Source Code
+Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào đường link bên dưới:
+https://github.com/svtankhuong/Personal_Schedule_Assistant/tree/9842a580c5c452fc0cb2e49a391fa5952a3d9494
 
 # Trợ lý Quản lý Lịch trình Cá nhân
 
